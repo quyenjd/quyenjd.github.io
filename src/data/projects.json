@@ -1,0 +1,92 @@
+[
+  {
+    "title": "WhoVotedThis",
+    "start": "2021-08",
+    "image": "https://www.youtube.com/watch?v=XhhI3Kkgtu8",
+    "description": "A simple application that allows conducting polls anonymously. Written in TypeScript using React and Material UI. **Completed within 48 hours** during PeddieHacks 2021 and won the Qoom Web App Challenge.",
+    "links": [
+      {
+        "label": "DevPost",
+        "url": "https://devpost.com/software/whovotedthis"
+      }
+    ]
+  },
+  {
+    "title": "Search Engine",
+    "start": "2020-08",
+    "end": "2020-09",
+    "image": "images/projects/searchengine.png",
+    "description": "A small C++ file-search application that loads files in a folder and allows searching by title or content with a set of useful operations.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/quyenjd/Mini-Search-Engine"
+      }
+    ]
+  },
+  {
+    "title": "Student Management System",
+    "start": "2020-05",
+    "end": "2020-06",
+    "image": "images/projects/studentmanagementsystem.png",
+    "description": "A small application that replicates a university’s database of students, lecturers, and staffs. It uses C++ to develop a simple CLI and execute operations on CSV files.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/quyenjd/Mini-Student-Management-System"
+      }
+    ]
+  },
+  {
+    "title": "Codeforces Round #558",
+    "start": "2018-07",
+    "end": "2019-05",
+    "image": "images/projects/codeforces-lg.webp",
+    "logo": "images/projects/codeforces.svg",
+    "description": "I was one of the problem setters of Codeforces Round #558, as a writer of 2 problems (A and C) and tester of 3 problems (A, B, and C).",
+    "links": [
+      {
+        "label": "Codeforces",
+        "url": "https://codeforces.com/contest/1163"
+      }
+    ]
+  },
+  {
+    "title": "RunTesT",
+    "start": "2018-06",
+    "end": "2018-08",
+    "description": "An extensive C++ tool for generating test cases for competitive programming problems. It runs the solution's implementation automatically for each generated test case and returns pairs of input and expected output.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/quyenjd/RunTesT-proJecT"
+      }
+    ]
+  },
+  {
+    "title": "Codeforces Round #482",
+    "start": "2017-07",
+    "end": "2018-05",
+    "image": "images/projects/codeforces-lg.webp",
+    "logo": "images/projects/codeforces.svg",
+    "description": "I was the leading problem setter of Codeforces Round #482, as a writer of 2 problems (A and B) and tester of all problems.",
+    "links": [
+      {
+        "label": "Codeforces",
+        "url": "https://codeforces.com/contest/979"
+      }
+    ]
+  },
+  {
+    "title": "themisv2",
+    "start": "2017-11",
+    "end": "2018-01",
+    "description": "A minimal Windows-only automatic scoring tool for competitive programming problems.\n\nThis project was inspired by [Themis](https://dsapblog.wordpress.com/2013/12/24/themis/) — an automatic scoring application for Vietnamese competitive programming contests — and [testlib](https://github.com/MikeMirzayanov/testlib), a C++ library that helps with generating test cases and writing checkers for Codeforces problems.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/quyenjd/themisv2"
+      }
+    ]
+  }
+]

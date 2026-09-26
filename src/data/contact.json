@@ -1,0 +1,22 @@
+{
+  "background": "images/contact.webp",
+  "title": "Contact",
+  "hiddenText": "📸 Shot on Pentax Espio 120SW | Kodak Ultramax 400",
+  "links": [
+    {
+      "icon": "github",
+      "label": "GitHub",
+      "url": "https://github.com/quyenjd"
+    },
+    {
+      "icon": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/quyenjd"
+    },
+    {
+      "icon": "email",
+      "label": "Email",
+      "url": "mailto:quyendl.ptnk@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Stormrake",
+    "logo": "images/experience/stormrake.svg",
+    "roles": [
+      {
+        "title": "Technical Lead",
+        "start": "2026-07",
+        "end": null,
+        "description": "- Architected a strongly concurrent background task runner with event-driven triggers and extensible cross-language support."
+      },
+      {
+        "title": "Full-stack Developer",
+        "start": "2024-12",
+        "end": "2026-07",
+        "description": "- Architected an external-facing hub that securely handles outbound connectivity and routing for third-party integrations with CRM system, banking, and business partners, while distributing events to internal services and ensuring stable operations across development, testing, and production environments.\n\n- Designed an infinitely scalable, type-safe event-based data processing pipeline.\n\n- Architected a scalable Amplify/CDK-based full-stack development framework: DX-first, TypeScript everywhere, and various feature-rich building blocks.\n\n- Built a strongly typed, event-driven workflow/state-machine library for serverless systems."
+      }
+    ]
+  },
+  {
+    "name": "Remitano",
+    "logo": "images/experience/remitano.webp",
+    "roles": [
+      {
+        "title": "Technical Lead",
+        "start": "2024-09",
+        "end": "2025-01",
+        "description": "Lead a team of 4 developers to maintain <img src='/images/experience/microtraining.png' alt='Microtraining' width='24px' style='vertical-align: middle;'> **Microtraining** — an internal platform that uses OpenAI to generate courses and questions from training content:\n\n- **Stack:** TypeScript/JavaScript, Next.js, Node.js, Ruby on Rails, React, OpenAI."
+      },
+      {
+        "title": "Full-stack Developer",
+        "start": "2023-04",
+        "end": "2025-01",
+        "description": "Active maintainer of <img src='/images/experience/nemoswap.svg' alt='NemoSwap' width='16px' style='vertical-align: middle;'> **NemoSwap DEX**:\n\n- **Stack:** TypeScript/JavaScript, Next.js, Node.js, React, Ruby on Rails.\n\n- Owner of internal Cypress testing utility libraries that abstract the communication with the RPC and facilitate integration testing of the product, greatly reducing the amount of time spent writing E2E tests.\n\n- Owner of smart router feature that finds the best swapping routes for all pairs of cryptocurrencies to maximise users' profit and help distribute liquidity on the market."
+      }
+    ]
+  },
+  {
+    "name": "Vice Versa Events",
+    "logo": "images/experience/viceversaevents.jpg",
+    "roles": [
+      {
+        "title": "Full-stack Developer",
+        "start": "2022-05",
+        "end": "2023-04",
+        "description": "Worked on a live music marketplace website connecting artists and venues while simplifying the process of booking a live music event.\n\nI was the only developer of the application, responsible for all front-end and back-end development. We used Angular (with TailwindCSS and RxJS) for front-end, Firebase Cloud Functions and Node.js for back-end to implement API endpoints for data handling transactions, and Firebase Storage and Firestore for database. Designs were communicated via Figma.\n\nWe have successfully extended our user base from only local bars and restaurants in Queensland to other venues across Australia, some of which are in Sydney and Melbourne."
+      }
+    ]
+  },
+  {
+    "name": "C2C TechHub",
+    "logo": "images/experience/c2ctechhub.svg",
+    "roles": [
+      {
+        "title": "Software Engineer",
+        "start": "2020-10",
+        "end": "2022-04",
+        "description": "Worked on an Electron application that provides an intuitive and extensible environment to work with data components and flows.\n\nI was the owner of the visualisation project for the AI team to demonstrate their models. My job was to create a component-based data flow application that allows running multiple data components and connecting them into a flow of inputs and outputs. The requirement was to create a desktop application, and to utilise the web technologies, I decided to use Electron and designed it to be a web application. I used JavaScript (with jQuery) as the main library to work with front-end development, and used JavaScript/TypeScript to write the back-end code that runs on Node.js.\n\nThe application has been used in several AI model demonstrations for the company."
+      }
+    ]
+  }
+]
